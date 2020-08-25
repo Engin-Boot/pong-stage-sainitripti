@@ -1,8 +1,8 @@
-# user-signup
+# user-sign-up
 
 ## Feature
 
-This module displays the signup screen of the game on user device.
+This module displays the sign up screen of the game on user device.
 It allows new user to register.
 
 ## Acceptance Criteria

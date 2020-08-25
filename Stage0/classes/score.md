@@ -2,7 +2,7 @@
 
 ## Feature
 
-This module defines the properties and behaviour of user score in the game.
+This module defines the properties and behavior of user score in the game.
 
 ## Acceptance Criteria
 

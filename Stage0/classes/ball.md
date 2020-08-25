@@ -2,7 +2,7 @@
 
 ## Feature
 
-This module defines the properties and behaviour of pong ball in the game.
+This module defines the property and behavior of pong ball in the game.
 
 ## Acceptance Criteria
 

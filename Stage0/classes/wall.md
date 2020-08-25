@@ -2,7 +2,7 @@
 
 ## Feature
 
-This module defines the properties and behaviour of a wall in the game.
+This module defines the properties and behavior of a wall in the game.
 
 ## Acceptance Criteria
 

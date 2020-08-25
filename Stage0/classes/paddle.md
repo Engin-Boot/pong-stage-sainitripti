@@ -2,7 +2,7 @@
 
 ## Feature
 
-This module defines the properties and behaviour of user paddle in the game.
+This module defines the properties and behavior of user paddle in the game.
 
 ## Acceptance Criteria
 
