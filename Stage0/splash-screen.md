@@ -1,8 +1,9 @@
-# -give-this-module-a-name
+# splash-screen
 
 ## Feature
 
-What part of the game does this module deliver?
+This module displays/renders the splash screen of the game on user device.
+It displays name of the game, name of owner and copyrights.
 
 ## Acceptance Criteria
 

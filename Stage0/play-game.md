@@ -1,8 +1,9 @@
-# -give-this-module-a-name
+# play-game
 
 ## Feature
 
-What part of the game does this module deliver?
+This module displays the state of a game at an instance on user device.
+It displays the position of ball, paddles, score and game background.
 
 ## Acceptance Criteria
 
