@@ -6,6 +6,8 @@ This module displays the result of the game.
 It displays name of the winner
 and list of score of all users in the game.
 
+It returns back to game-engine when user press any key.
+
 ## Acceptance Criteria
 
 ### Scenario: -describe-a-scenario-of-this-module

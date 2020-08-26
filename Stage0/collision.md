@@ -1,8 +1,10 @@
-# settings
+# collision
 
 ## Feature
 
-This module defines the display settings and sound settings in a game.
+This module checks if collision occurs between ball and
+one of the walls or paddles. It then returns id of that
+instance to the run-game cron job.
 
 ## Acceptance Criteria
 

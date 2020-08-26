@@ -3,7 +3,7 @@
 ## Feature
 
 This module displays the user details on user device.
-It provides option to modify and save details.
+It provides option to change and save details.
 
 ## Acceptance Criteria
 
